@@ -1,18 +1,20 @@
 # Third-Party APIs: Work Day Scheduler
 
-## Your Task
+A simple calendar application that allows a user to save events for each hour of the day. This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery.
 
-Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+
+## Description of the assignment
+
+Create a simple calendar application (utilizing JQUERY, local storage, and day.js) that allows a user to save events for each hour of the day, by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. HTML and CSS are dynamically updated according to the time--the background colors of the time blocks are adjusted based upon the classification of the time event (past, present, or future.)
 
 You'll need to use the [Day.js](https://day.js.org/docs/en/display/format) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Day.js in the browser.
 
 ## User Story
 
-```md
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
-```
+
 
 ## Acceptance Criteria
 
@@ -82,6 +84,3 @@ You are required to submit the following for review:
 * The URL of the deployed application
 
 * The URL of the GitHub repository, with a unique name and a README describing the project
-
----
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
