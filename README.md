@@ -1,7 +1,15 @@
+## **_Table of contents_** 
+
+* [description of the assignment](#description-of-the-assignment)
+* [acceptance criteria](#acceptance-criteria)
+* [link url to deployed app on github](#link-url-to-deployed-app-on-github)
+* [website Page screenshot link url to github repository](#website-page-screenshot-link-url-to-github-repository)
+* [contact Link url to github repository](#contact-link-url-to-github-repository)
+* [Reference](#Reference)
+
 # Third-Party APIs: Work Day Scheduler
 
 A simple calendar application that allows a user to save events for each hour of the day. This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery.
-
 
 ## Description of the assignment
 
@@ -84,3 +92,19 @@ You are required to submit the following for review:
 * The URL of the deployed application
 
 * The URL of the GitHub repository, with a unique name and a README describing the project
+
+## Link URL to deployed app on GitHub
+
+ https://khumbulani9.github.io/Intermediate-JavaScript-Password-Generator/Links to an external site. 
+
+## Contact-link URL to GitHub repository
+
+https://github.com/khumbulani9/Intermediate-JavaScript-Password-Generator/blob/main/README.md
+
+## Reference
+
+https://bootcampspot.instructure.com/courses/5651/assignments/67065?module_item_id=1145576
+
+---
+
+© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
