@@ -45,17 +45,17 @@ header {
 
 .past {
   background-color: #8e5959;
-  color: white;
+  color: rgb(72, 130, 163);
 }
 
 .present {
   background-color: #ff6961;
-  color: white;
+  color: rgb(88, 51, 51);
 }
 
 .future {
   background-color: #77dd77;
-  color: white;
+  color: rgb(90, 51, 228);
 }
 
 .saveBtn {
@@ -63,7 +63,7 @@ header {
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
   background-color: #06aed5;
-  color: white;
+  color: rgb(27, 30, 179);
 }
 
 .saveBtn i:hover {
