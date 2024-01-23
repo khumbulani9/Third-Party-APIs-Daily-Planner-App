@@ -95,7 +95,7 @@ You are required to submit the following for review:
 
 ## Link URL to deployed app on GitHub
 
- https://khumbulani9.github.io/Intermediate-JavaScript-Password-Generator/Links to an external site. 
+  https://khumbulani9.github.io/Third-Party-APIs-Daily-Planner-App/ 
 
 ## Contact-link URL to GitHub repository
 
