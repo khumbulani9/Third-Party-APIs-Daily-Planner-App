@@ -34,22 +34,22 @@ header {
 .row {
   white-space: pre-wrap;
   height: 80px;
-  border-top: 1px solid rgb(210, 23, 23);
+  border-top: 1px solid rgb(75, 66, 66);
 }
 
 .hour {
-  background-color: #e16f6f;
+  background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
 }
 
 .past {
-  background-color: #8e5959;
+  background-color: #a28888;
   color: rgb(72, 130, 163);
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #0c242b;
   color: rgb(88, 51, 51);
 }
 
@@ -75,7 +75,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 22px;
   background-attachment: fixed;
-  background-image: linear-gradient(45deg, #40229b 25%, #a9989a 70%);
+  background-image: linear-gradient(45deg, #8c7c8f 25%, #d1e7f7 70%);
   background-position: 0% 0%;
   background-repeat: repeat;
   background-size: auto;
