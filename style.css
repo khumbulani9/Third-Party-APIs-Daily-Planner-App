@@ -28,23 +28,23 @@ header {
 
 .time-block {
   text-align: center;
-  border-radius: 15px;
+  border-radius: 19px;
 }
 
 .row {
   white-space: pre-wrap;
   height: 80px;
-  border-top: 1px solid white;
+  border-top: 1px solid rgb(210, 23, 23);
 }
 
 .hour {
-  background-color: #ffffff;
+  background-color: #e16f6f;
   color: #000000;
   border-top: 1px dashed #000000;
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: #8e5959;
   color: white;
 }
 
